@@ -1,0 +1,8 @@
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\bin\Debug\CarsZadacha.exe.config
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\bin\Debug\CarsZadacha.exe
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\bin\Debug\CarsZadacha.pdb
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\obj\Debug\CarsZadacha.csproj.AssemblyReference.cache
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\obj\Debug\CarsZadacha.csproj.SuggestedBindingRedirects.cache
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\obj\Debug\CarsZadacha.csproj.CoreCompileInputs.cache
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\obj\Debug\CarsZadacha.exe
+C:\9Д\CarsZadachaZaIzpitvane\CarsZadacha\obj\Debug\CarsZadacha.pdb
